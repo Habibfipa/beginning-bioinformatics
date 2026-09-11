@@ -1,2 +1,4 @@
 # beginning-bioinformatics
-Beginning bioinformatics course code
+NAME: HABIB WOULEO FIPA 
+ID:1002335966
+Code: BIOL5340-001
